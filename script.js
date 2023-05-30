@@ -1,6 +1,6 @@
-function threeSum(arr, target) {
+function decToBina(dec) {
 // write your code here
-  return x.toString(2);
+  return dec.toString(2);
 }
 
 module.exports = threeSum;
