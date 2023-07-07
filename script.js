@@ -1,6 +1,5 @@
-function decToBina(dec) {
-// write your code here
-  return dec.toString(2);
+function decimalToBinary(num) {
+  // Write your code here
 }
 
-module.exports = threeSum;
+window.decimalToBinary = decimalToBinary;
